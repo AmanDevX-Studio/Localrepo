@@ -1,0 +1,17 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 343ae1c..26f559a 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,6 +8,11 @@[m
+ </head>[m
+ <body>[m
+     <h1>My To-Do List</h1>[m
+[32m+[m[32m    <!-- <ul>[m
+[32m+[m[32m        <li>Task 1</li>[m
+[32m+[m[32m        <li>Task 2</li>[m
+[32m+[m[32m        <li>Task 3</li>[m
+[32m+[m[32m    </ul> -->[m
+     <p>Here you can manage your tasks efficiently.</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
